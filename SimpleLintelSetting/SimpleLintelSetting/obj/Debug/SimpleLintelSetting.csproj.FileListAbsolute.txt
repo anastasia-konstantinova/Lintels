@@ -1,0 +1,6 @@
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\bin\Debug\SimpleLintelSetting.dll
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\bin\Debug\SimpleLintelSetting.pdb
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\obj\Debug\SimpleLintelSetting.csprojAssemblyReference.cache
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\obj\Debug\SimpleLintelSetting.csproj.CoreCompileInputs.cache
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\obj\Debug\SimpleLintelSetting.dll
+C:\Users\rando\OneDrive\Desktop\work\Перемычки\SimpleLintelSetting\SimpleLintelSetting\obj\Debug\SimpleLintelSetting.pdb

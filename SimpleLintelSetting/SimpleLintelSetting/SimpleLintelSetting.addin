@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command SimpleLintelSetting</Text>
+    <Description>Some description for SimpleLintelSetting</Description>
+    <Assembly>SimpleLintelSetting.dll</Assembly>
+    <FullClassName>SimpleLintelSetting.Command</FullClassName>
+    <ClientId>87defc74-378e-40d5-8d5a-b6a274e95f8c</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <!--<AddIn Type="Application">
+    <Name>Application SimpleLintelSetting</Name>
+    <Assembly>SimpleLintelSetting.dll</Assembly>
+    <FullClassName>SimpleLintelSetting.App</FullClassName>
+    <ClientId>62bcfb76-0c17-4869-88e2-7d5261e5e8eb</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>-->
+</RevitAddIns>
